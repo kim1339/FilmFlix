@@ -1,0 +1,19 @@
+{
+    "film collection": [{
+        "cast": "Morgan Freeman, Tim Robbins",
+        "release year": 1994,
+        "director": "Frank Darabont",
+        "genres": "Drama",
+        "rating": 0,
+        "title": "The Shawshank Redemption"
+    }],
+    "name": "Kimia's catalogue",
+    "show collection": [{
+        "cast": "David Suchet",
+        "release year": 1989,
+        "genres": "Mystery",
+        "rating": 0,
+        "no. of seasons": 13,
+        "title": "Poirot"
+    }]
+}

@@ -1,0 +1,21 @@
+{
+    "film collection": [
+        {
+          "title": "The Florida Project",
+          "director": "Sean Baker",
+          "genres": "Drama, Indie",
+          "release year": 2017,
+          "rating": 5,
+          "cast": "Willem DaFoe, Brooklynn Prince"
+        }],
+    "show collection": [
+        {
+          "cast": "David Suchet, Hugh Fraser, Philip Jackson",
+          "release year": 1989,
+          "genres": "Mystery, Crime",
+          "rating": 0,
+          "no. of seasons": 13,
+          "title": "Poirot"
+        }],
+    "name": "Kimia's catalogue"
+}

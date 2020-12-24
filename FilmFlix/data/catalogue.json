@@ -1,0 +1,239 @@
+{
+    "film collection": [
+        {
+            "cast": "Willem DaFoe, Brooklynn Prince",
+            "release year": 2017,
+            "director": "Sean Baker",
+            "genres": "Drama, Indie",
+            "rating": 5,
+            "title": "The Florida Project"
+        },
+        {
+            "cast": "Vincent Cassel",
+            "release year": 1995,
+            "director": "Mathieu Kassovitz",
+            "genres": "International, Drama",
+            "rating": 5,
+            "title": "La Haine"
+        },
+        {
+            "cast": "Brad Pitt, Cate Blanchett, Tilda Swinton, Taraji P. Henson",
+            "release year": 2008,
+            "director": "David Fincher",
+            "genres": "Romance, Drama",
+            "rating": 5,
+            "title": "The Curious Case of Benjamin Button"
+        },
+        {
+            "cast": "Ian McKellen, Elijah Wood, Orlando Bloom",
+            "release year": 2001,
+            "director": "Peter Jackson",
+            "genres": "Fantasy, Adventure",
+            "rating": 5,
+            "title": "The Lord of the Rings: Fellowship of the Ring"
+        },
+        {
+            "cast": "Angelina Jolie, Winona Ryder",
+            "release year": 1999,
+            "director": "James Mangold",
+            "genres": "Psychological, Drama",
+            "rating": 5,
+            "title": "Girl, Interrupted"
+        },
+        {
+            "cast": "Brad Pitt, Morgan Freeman, Gwenyth Paltrow",
+            "release year": 1995,
+            "director": "David Fincher",
+            "genres": "Psychological, Thriller",
+            "rating": 5,
+            "title": "Se7en"
+        },
+        {
+            "cast": "Lupita Nyong'o, Winston Duke",
+            "release year": 2019,
+            "director": "Jordan Peele",
+            "genres": "Thriller",
+            "rating": 5,
+            "title": "Us"
+        },
+        {
+            "cast": "Adrien Brody, Emilia Fox",
+            "release year": 2002,
+            "director": "Roman Polanski",
+            "genres": "World War II, Biographical, Tearjerker",
+            "rating": 5,
+            "title": "The Pianist"
+        },
+        {
+            "cast": "Keira Knightley, Rosamund Pike, Matthew Macfayden",
+            "release year": 2005,
+            "director": "Joe Wright",
+            "genres": "British, Romance, Period Drama",
+            "rating": 5,
+            "title": "Pride & Prejudice"
+        },
+        {
+            "cast": "Martin Short, Emma Thompson, Joseph Gordon-Levitt",
+            "release year": 2002,
+            "director": "Ron Clements",
+            "genres": "Disney, Animation, Fantasy",
+            "rating": 5,
+            "title": "Treasure Planet"
+        },
+        {
+            "cast": "Mark Duplass, Patrick Brice",
+            "release year": 2014,
+            "director": "Patrick Brice",
+            "genres": "Psychological, Thriller",
+            "rating": 4,
+            "title": "Creep"
+        },
+        {
+            "cast": "Daniel Kaluuya, Allison Williams",
+            "release year": 2017,
+            "director": "Jordan Peele",
+            "genres": "Thriller",
+            "rating": 5,
+            "title": "Get Out"
+        },
+        {
+            "cast": "Eddie Redmayne, Felicity Jones, David Thewlis",
+            "release year": 2014,
+            "director": "James Marsh",
+            "genres": "Biographical, Drama",
+            "rating": 4,
+            "title": "The Theory of Everything"
+        },
+        {
+            "cast": "Saoirse Ronan, Stanley Tucci, Mark Wahlberg ",
+            "release year": 2009,
+            "director": "Peter Jackson",
+            "genres": "Drama, Mystery",
+            "rating": 5,
+            "title": "The Lovely Bones"
+        },
+        {
+            "cast": "Jamie Bell, Andy Serkis, Daniel Craig",
+            "release year": 2011,
+            "director": "Steven Spielberg",
+            "genres": "Animation, Adventure, Nostalgic",
+            "rating": 5,
+            "title": "The Adventures of Tintin: The Secret of the Unicorn"
+        },
+        {
+            "cast": "Gong Yoo",
+            "release year": 2016,
+            "director": "Yeon Sang-ho",
+            "genres": "Zombie, Thriller",
+            "rating": 4,
+            "title": "Train to Busan"
+        },
+        {
+            "cast": "Benedict Cumberbatch, Keira Knightley",
+            "release year": 2014,
+            "director": "Morten Tyldum",
+            "genres": "World War II, Biographical, Drama",
+            "rating": 4,
+            "title": "The Imitation Game"
+        },
+        {
+            "cast": "Johnny Depp, Keira Knightley, Orlando Bloom",
+            "release year": 2003,
+            "director": "Gore Verbinski",
+            "genres": "Disney, Adventure",
+            "rating": 5,
+            "title": "Pirates of the Caribbean: The Curse of the Black Pearl"
+        },
+        {
+            "cast": "Emile Hirsch, Kristen Stewart, Hal Holbrook, Catherine Keener",
+            "release year": 2007,
+            "director": "Sean Penn",
+            "genres": "Biographical, Adventure",
+            "rating": 5,
+            "title": "Into the Wild"
+        },
+        {
+            "cast": "Ian McKellen",
+            "release year": 2015,
+            "director": "Bill Condon",
+            "genres": "Mystery, Detective",
+            "rating": 5,
+            "title": "Mr. Holmes"
+        },
+        {
+            "cast": "Idris Elba, Abraham Attah",
+            "release year": 2015,
+            "director": "Cary Joji Fukunaga",
+            "genres": "War, Drama",
+            "rating": 5,
+            "title": "Beasts of No Nation"
+        },
+        {
+            "cast": "Ethan Hawke",
+            "release year": 2012,
+            "director": "Scott Derrickson",
+            "genres": "Horror",
+            "rating": 4,
+            "title": "Sinister"
+        },
+        {
+            "cast": "Guy Pearce",
+            "release year": 2000,
+            "director": "Christopher Nolan",
+            "genres": "Thriller, Mystery, Psychological",
+            "rating": 5,
+            "title": "Memento"
+        },
+        {
+            "cast": "Leonardo diCaprio, Mark Ruffalo, Ben Kingsley",
+            "release year": 2010,
+            "director": "Martin Scorsese",
+            "genres": "Psychological, Thriller",
+            "rating": 5,
+            "title": "Shutter Island"
+        },
+        {
+            "cast": "Johnny Depp, Helena Bonham Carter, Freddie Highmore",
+            "release year": 2005,
+            "director": "Tim Burton",
+            "genres": "Fantasy, Family",
+            "rating": 5,
+            "title": "Charlie and the Chocolate Factory"
+        },
+        {
+            "cast": "Joaquin Pheonix, Robert deNiro",
+            "release year": 2019,
+            "director": "Todd Phillips",
+            "genres": "Crime, Pyschological",
+            "rating": 5,
+            "title": "Joker"
+        }
+    ],
+    "name": "Kimia's catalogue",
+    "show collection": [
+        {
+            "cast": "David Suchet, Hugh Fraser, Philip Jackson",
+            "release year": 1989,
+            "genres": "Mystery, Crime",
+            "rating": 5,
+            "no. of seasons": 13,
+            "title": "Poirot"
+        },
+        {
+            "cast": "Ellie Kemper, Tituss Burgess, Carol Kane",
+            "release year": 2015,
+            "genres": "Sitcom, Comedy",
+            "rating": 5,
+            "no. of seasons": 4,
+            "title": "Unbreakable Kimmy Schmidt"
+        },
+        {
+            "cast": "Aang, Sokka, Katara, Toph",
+            "release year": 2005,
+            "genres": "Animation, Fantasy, Nostalgic",
+            "rating": 5,
+            "no. of seasons": 3,
+            "title": "Avatar: The Last Airbender"
+        }
+    ]
+}
